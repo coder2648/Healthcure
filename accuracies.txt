@@ -1,0 +1,7 @@
+pneumonia 83.17%
+heart disease: 86.96% 
+Diabetes: 66.8% 
+alzheimer: 73.54% 
+breast cancer: 91.81% 
+brain tumor: 100% 
+covid: 93% 
